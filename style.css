@@ -48,3 +48,23 @@
 .cat3 {
     background-color: darkblue;
 }
+
+.card {
+    border: none;
+    border-radius: 10px;
+    -webkit-box-shadow: 5px 5px 10px lightgray;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer {
+    border: none;
+    background-color: #fff;
+    padding: 0;
+}
+
+#contact-us {
+    height: 300px;
+}
+h6{
+    color: gray;
+}
